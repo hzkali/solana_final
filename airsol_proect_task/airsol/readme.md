@@ -20,7 +20,7 @@ of 5-10% is taken on an airbnb or zillow style site, a 3% commission is taken in
 3. Run `yarn dev` to start the project
 4. Start renting your homes rather than selling them!
 
- ### $\textcolor{red}{hzkali\ vercel\ link}$ 
+ ### $\textcolor{red-green}{solana Airsol project\ vercel\ link}$ 
  https://solana-final.vercel.app/
 
 
