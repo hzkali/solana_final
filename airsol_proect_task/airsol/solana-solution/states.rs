@@ -4,14 +4,14 @@ use anchor_lang::prelude::*;
 #[derive(Default)]
 pub struct UserProfile {
     pub authority: Pubkey,
-    pub last_airbnb: u8,
-    pub airbnb_count: u8,
+    pub last_airsol: u8,
+    pub airsol_count: u8,
 }
 
 /// Size 2605 = 32 + 1 + 4 + 256 + 4 + 2048 + 4 + 256
 #[account]
 #[derive(Default)]
-pub struct AirbnbAccount {
+pub struct AirsolAccount {
     pub authority: Pubkey,   // 32
     pub idx: u8,             // 1
     pub location: String, // 4 + 256
