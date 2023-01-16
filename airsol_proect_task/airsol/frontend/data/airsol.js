@@ -2,14 +2,14 @@ export default [
     {
         id: '1',
         name: 'Abiansemal',
-        country: 'Miami ',
+        country: 'Indonesia',
         description: '',
         distance: {
             km: 1997,
         },
         price: 1608,
         rating: 4.87,
-        imageURL: 'https://a0.muscache.com/im/pictures/miso/Hosting-46294750/original/f1eb6229-017d-4287-ad48-4c4cd4914bc3.jpeg',
+        imageURL: 'https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg',
     },
     {
         id: '2',
@@ -21,7 +21,7 @@ export default [
         },
         price: 494,
         rating: 4.95,
-        imageURL: 'https://a0.muscache.com/im/pictures/miso/Hosting-586389643334404107/original/219becf2-a8ea-4e90-9d92-462647c57e30.jpeg',
+        imageURL: 'https://a0.muscache.com/im/pictures/77c3c61e-930a-4e7c-ab4d-59413c1f0b87.jpg',
     },
     {
         id: '3',
@@ -47,4 +47,101 @@ export default [
         rating: 4.77,
         imageURL: 'https://a0.muscache.com/im/pictures/36e5b4b5-0f4f-4703-a2c3-7a3cc9d9d82e.jpg',
     },
+    {
+        id: '5',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 18,
+        },
+        price: 188,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/9698632c-ec12-4a8f-b55d-f8aaaf4f677e.jpg',
+    },
+    {
+        id: '6',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 118,
+        },
+        price: 600,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/miso/Hosting-18870432/original/e808b917-f3aa-4d7c-ab45-4dfc10715c22.jpeg',
+    },
+    {
+        id: '7',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 218,
+        },
+        price: 385,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/56467892-0d23-4ab1-8302-9c3d0d5e52cd.jpg',
+    },
+    {
+        id: '8',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 318,
+        },
+        price: 378,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/0b291698-e8ab-41ba-9761-940df2f62981.jpg',
+    },
+    {
+        id: '9',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 418,
+        },
+        price: 478,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/prohost-api/Hosting-619430096175253399/original/c67850b5-5d77-4730-93fb-d6c2205efea9.jpeg',
+    },
+    {
+        id: '10',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 518,
+        },
+        price: 578,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/miso/Hosting-619405499274912095/original/43761e74-6ff4-4575-b63e-0639bc944356.jpeg',
+    },
+    {
+        id: '11',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 618,
+        },
+        price: 678,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/miso/Hosting-35515109/original/9a3273ee-aa16-4ca2-a196-b8767af27ba5.jpeg',
+    },
+    {
+        id: '12',
+        name: 'Ko Samui District',
+        country: 'Thailand',
+        description: '',
+        distance: {
+            km: 718,
+        },
+        price: 178,
+        rating: 4.77,
+        imageURL: 'https://a0.muscache.com/im/pictures/f3a58404-9081-426e-86f5-d3182d2be3d2.jpg',
+    },
+    
 ]

@@ -1,7 +1,7 @@
 import { Dialog, Transition } from '@headlessui/react'
 import { Fragment, useState } from 'react'
 
-export default function AddListingModal({ addAirsol, addListingModalOpen, setAddListingModalOpen }) {
+export default function AddListingModal({ addListing, addListingModalOpen, setAddListingModalOpen }) {
     const [location, setLocation] = useState('')
     const [country, setCountry] = useState('')
     const [price, setPrice] = useState(0)
@@ -14,7 +14,7 @@ export default function AddListingModal({ addAirsol, addListingModalOpen, setAdd
     const onCreate = (e) => {
         e.preventDefault()
 
-        addAirsol({
+        addListing({
             location,
             country,
             price,
