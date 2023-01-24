@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 'book-store',
+    name: '3 Zor mesele',
+    description: 'ismet özel',
+    unitName: 'pieces', // shows after the price, eg. 0.05 SOL/pieces
+    priceSol: 0.5,
+    priceUsd: 15,
+  },
+  {
+    id: 'book-store',
+    name: 'Faydasız Randevu',
+    description: 'İsmet Özel',
+    unitName: 'pieces',
+    priceSol: 0.2,
+    priceUsd: 8,
+  },
+  {
+    id: 'book-store',
+    name: 'Desem Öldürürler, Demesem Öldüm',
+    description: 'İsmet Özel',
+    unitName: 'pieces',
+    priceSol: 0.3,
+    priceUsd: 12,
+  },
+  {
+    id: 'book-store',
+    name: 'Türküm Doğruyum Intikamım Ülkemdir',
+    description: 'İsmet Özel',
+    unitName: 'pieces',
+    priceSol: 0.34,
+    priceUsd: 16,
+  },
+  {
+    id: 'book-store',
+    name: 'Tahrir Vazifeleri',
+    description: 'İsmet Özel',
+    unitName: 'pieces',
+    priceSol: 0.3,
+    priceUsd: 10,
+  },
+  {
+    id: 'book-store',
+    name: 'Taşları Yemek Yasak ',
+    description: 'İsmet Özel',
+    unitName: 'pieces',
+    priceSol: 0.1,
+    priceUsd: 10,
+  },
+  {
+    id: 'book-store',
+    name: 'Amentü ',
+    description: 'İsmet Özel',
+    unitName: 'poem',
+    priceSol: 0.9,
+    priceUsd: 28,
+  },
+]
