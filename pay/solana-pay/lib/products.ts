@@ -5,7 +5,7 @@ export const products = [
     description: 'ismet özel',
     unitName: 'pieces', // shows after the price, eg. 0.05 SOL/pieces
     priceSol: 0.5,
-    priceUsd: 15,
+    priceUsd: 1,
   },
   {
     id: 'book-store',
@@ -13,7 +13,7 @@ export const products = [
     description: 'İsmet Özel',
     unitName: 'pieces',
     priceSol: 0.2,
-    priceUsd: 8,
+    priceUsd: 1.2,
   },
   {
     id: 'book-store',
@@ -21,7 +21,7 @@ export const products = [
     description: 'İsmet Özel',
     unitName: 'pieces',
     priceSol: 0.3,
-    priceUsd: 12,
+    priceUsd: 1.3,
   },
   {
     id: 'book-store',
@@ -29,7 +29,7 @@ export const products = [
     description: 'İsmet Özel',
     unitName: 'pieces',
     priceSol: 0.34,
-    priceUsd: 16,
+    priceUsd: 1.4,
   },
   {
     id: 'book-store',
@@ -37,7 +37,7 @@ export const products = [
     description: 'İsmet Özel',
     unitName: 'pieces',
     priceSol: 0.3,
-    priceUsd: 10,
+    priceUsd: 1.5,
   },
   {
     id: 'book-store',
@@ -45,7 +45,7 @@ export const products = [
     description: 'İsmet Özel',
     unitName: 'pieces',
     priceSol: 0.1,
-    priceUsd: 10,
+    priceUsd: 1.8,
   },
   {
     id: 'book-store',
@@ -53,6 +53,6 @@ export const products = [
     description: 'İsmet Özel',
     unitName: 'poem',
     priceSol: 0.9,
-    priceUsd: 28,
+    priceUsd: 2.8,
   },
 ]
