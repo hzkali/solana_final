@@ -32,6 +32,6 @@ In conclusion, the Solana crowdfunding app is a powerful tool for those looking 
     
 ## 🔗 Links
 
-[![youtube](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=red)](/https://youtu.be/epAEyMkKuBI)
+[![youtube](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/epAEyMkKuBI)
 
 
